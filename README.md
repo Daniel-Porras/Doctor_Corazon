@@ -356,33 +356,6 @@ AI inference time:      ~100 ms
 
 ---
 
-## 🗺️ Roadmap
-
-### Current Version: 2.0
-✅ Fully functional system  
-✅ Multi-user with RLS  
-✅ Automatic diagnosis with CNN  
-✅ Real-time dashboard  
-
-### Version 2.1 (Q1 2025)
-- [ ] Push notifications
-- [ ] Mobile app (React Native)
-- [ ] PDF export
-- [ ] Multi-language (English, Portuguese)
-
-### Version 2.2 (Q2 2025)
-- [ ] Offline mode
-- [ ] Data compression
-- [ ] More AI classes (AFib, PVCs)
-
-### Version 3.0 (Q3 2025)
-- [ ] Multi-device support
-- [ ] Improved AI model (10+ classes)
-- [ ] HL7/FHIR integration
-- [ ] Clinical validation
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repository
