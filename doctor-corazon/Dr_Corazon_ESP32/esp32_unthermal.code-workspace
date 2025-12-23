@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "esp32_unthermal",
+			"path": "../../OneDrive/Desktop/UNThermal/code/esp32_unthermal"
+		},
+		{
+			"name": "esp32_unmotor",
+			"path": "../../OneDrive/Desktop/UNDCMotor/code/esp32_unmotor"
+		},
+		{
+			"path": "../../OneDrive/Desktop/UNAL/2024-2/Control"
+		},
+		{
+			"path": "../../OneDrive/Desktop/UNAL/2025-1/Comus/ProComus"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,42 @@
+# requirements.txt - Dependencias para Dr Corazón Web Dashboard
+
+# ============ OPCIÓN 1: Flask + SocketIO ============
+Flask==3.0.0
+flask-socketio==5.3.5
+python-socketio==5.10.0
+python-engineio==4.8.0
+eventlet==0.33.3
+
+# ============ OPCIÓN 2: Dash/Plotly ============
+dash==2.14.2
+plotly==5.18.0
+
+# ============ OPCIÓN 3: FastAPI ============
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==10.4
+
+# ============ Dependencias Comunes ============
+numpy>=1.24.0
+scipy>=1.11.0
+
+# TensorFlow/Keras (para tu IA)
+tensorflow>=2.13.0
+
+# Filtrado de señales (si usas en receiver_udp.py)
+scikit-learn>=1.3.0
+
+# Opcional: para producción
+gunicorn==21.2.0
+
+# Opcional: CORS para FastAPI
+python-multipart==0.0.6
+
+# ============ Supabase (Base de datos en la nube) ============
+supabase>=2.0.0
+
+# ============ Autenticación y Seguridad ============
+bcrypt>=4.0.0
+
+# Opcional: Variables de entorno (recomendado para producción)
+python-dotenv>=1.0.0
